@@ -1,0 +1,3 @@
+﻿  Matrix Practice.cpp
+c:\users\artem\documents\visual studio 2013\projects\matrix practice\matrix practice\matrix_func.h(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Matrix Practice.vcxproj -> C:\Users\Artem\Documents\Visual Studio 2013\Projects\Matrix Practice\Debug\Matrix Practice.exe
